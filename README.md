@@ -158,3 +158,11 @@ services:
 volumes:
   ssl:
 ```
+
+
+## Build your own 
+
+```
+$ sudo apt install libpq-dev
+$ pip install -r requirements.txt
+```
